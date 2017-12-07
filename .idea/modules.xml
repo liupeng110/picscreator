@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/picscreator.iml" filepath="$PROJECT_DIR$/picscreator.iml" />
+      <module fileurl="file://G:\work\vr\picscreator\app\app.iml" filepath="G:\work\vr\picscreator\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/picscreator.iml" filepath="$PROJECT_DIR$/.idea/picscreator.iml" />
+      <module fileurl="file://G:\work\vr\picscreator\picscreator.iml" filepath="G:\work\vr\picscreator\picscreator.iml" />
     </modules>
   </component>
 </project>
